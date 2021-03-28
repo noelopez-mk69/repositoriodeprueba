@@ -1,37 +1,69 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0,minimum-scale=1.0">
+    <title>TODOS AC</title>
+    <link rel="stylesheet" href="css/bootstrap.css">
+</head>
+<body>
+    <div class="container">
+        <h1>TODOS AC</h1> 
+        <img src="img/logo.jpg" width="50" height="50">  
+        <p>Trabajo Objetivo Detonante de Oportunidades para Servir, T.O.D.O.S. es una Asociación Civil con registro federal y estatal, la cual fue creada en el 2015 sin fines de lucro con el objetivo de apoyar a los sectores Jaliscienses vulnerables con programas para mejorar la calidad de vida e igualdad de oportunidades a través de un enfoque integral que fomenta la participación y fortalezca el tejido social. </p>
+    </div>
 
-You can use the [editor on GitHub](https://github.com/noelopez-mk69/todosac/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+    <div class="container">
+        <h2>Nuestra Mision</h2>
+        <p>Nuestra misión es apoyar a comunidades Jaliscienses en situación de riesgo o vulnerables a través de un enfoque de desarrollo comunitario con servicios integrales que fomenten la participación y fortalezcan el tejido social. </p>
+    </div>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+    <div class="container">
+        <h2>Nuestra Vision</h2>
+        <p>Nuestra visión es ser una asociación civil conocida por lograr en sus intervenciones fortalecer el tejido social así como por promover la activación de las comunidades e igualdad de oportunidades</p>
+    </div>
 
-### Markdown
+    <div class="container">
+        <h3>Nuestros valores son:</h3>
+        <ol>
+            <li>Respeto a la autonomía de las personas, a su tiempo y disposición, así como a las diferencias de pensamiento.</li>
+            <li>Honestidad en los procesos internos de la Asociación y en los alcances de ésta en el trabajo con la población atendida.</li>
+            <li>Honestidad en los procesos internos de la Asociación y en los alcances de ésta en el trabajo con la población atendida.</li>
+            <li>Compromiso con los objetivos y acuerdos planteados en las comunidades</li>
+        </ol>
+    </div>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+    <div class="container">
+        <h2>¿Dónde nos encontramos actualmente?</h2>
+        <p>Actualmente trabajamos en la parte oriente de la Zona Metropolitana de Guadalajara, comunidades pertenecientes al municipio de Tonalá con comités fijos y grupos de voluntarios que son habitantes de las mismas colonias: Santa Isabel, La Puerta, La Ladrillera, La Severiana, Fraccionamiento El Duque, Colonia Jalisco, Zalatitán y 20 de Noviembre,  con la encomienda de tener mayor alcance en un mediano y largo plazo. </p>
+    </div>
 
-```markdown
-Syntax highlighted code block
+    <div class="container">
+        <h2>Evidencias actuales</h2><br>
 
-# Header 1
-## Header 2
-### Header 3
+        <p><b>Programa "Estereotipo y roles de género igualitarios entre hombres y mujeres" implementado con apoyo de la Secretaría de Igualdad Sustantiva entre hombres y mujeres año 2020 en la Sec 107 "José Marti" en Sta Paula Tonalá</b></p>
+        <img src="img/prog-estereotipos.jpg"><br><br>
+        <p><b>Entrega de despensas "Jalisco sin Hambre" de Gobierno del Estado en apoyo a la población que atendemos en las colonias La Pilita, Sta Isabel, La Ladrillera y La Severiana Junio 2020</b></p>
+        <br><img src="img/jsh1.jpg"><br>
+        <img src="img/jsh2.jpg"><br>
+        <img src="img/jsh3.jpg"><br>
+        <img src="img/jsh4.jpg"><br>
+        <img src="img/jsh5.jpg"><br>
+        <p><b>Proyecto estereotipos y roles de género igualitarios entre hombres y mujeres con apoyo de la Secretaría de igualdad sustantiva del Gobierno del Estado en el año 2020</b></p><br>
+        <img src="img/per1.jpg"><br>
+        <img src="img/per2.jpg"><br>
+        <img src="img/per3.jpg"><br>   
+    </div>
 
-- Bulleted
-- List
+    <div class="container">
+        <h2>¡Seguimos trabajando para mejorar Jalisco!</h2>
+    </div>
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/noelopez-mk69/todosac/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+    <script src="js/jquery-3.6.0.min.js"></script>
+    <script src="js/popper.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    
+</body>
+</html>
